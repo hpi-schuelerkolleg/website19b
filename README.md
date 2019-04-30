@@ -10,7 +10,7 @@ Website of group green II of the HPI schuelerkolleg
 
 ![clonen](https://i.imgur.com/7ynSzAc.png)
 
-* In der git Kommandozeile: `git clone <kopierte git Adresse>`
+* In der git Kommandozeile: `git clone <kopierte git Adresse>` (In Windows hilft das Rechtsklick-Menü beim Einfügen)
 
 ![clonen](https://i.imgur.com/zw5cjUo.png)
 
