@@ -2,9 +2,16 @@
 Website of group green II of the HPI schuelerkolleg
 
 ## Anleitung
+
+### Account Setup
+
+* Erstellt einen GitHub Account oder fragt nach einem
+
 * Sagt Bescheid, welchen GitHub Accountnamen ihr gewählt habt. Dann bekommt ihr Zugriffsrechte aufs Repository.
 
 * Geht auf `https://github.com/hpi-schuelerkolleg/website19b/invitations` um eure Projekteinladung anzunehmen.
+
+### Git
 
 * Kopiert die Adresse dieses GitHub Repositories: `https://github.com/hpi-schuelerkolleg/website19b.git`
 
