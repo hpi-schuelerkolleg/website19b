@@ -34,7 +34,7 @@ Website of group green II of the HPI schuelerkolleg
 
 ![clonen](https://i.imgur.com/LmSIwuR.png)
 
-* `git commit` schnürt einen Commit. Ein Editor Fenster geht auf, in das ihr eure Commit Message schreibt. Speichert die Datei.
+* `git commit -m "<NACHRICHT>"` schnürt einen Commit mit der Nachricht `<NACHRICHT>`.
 
 ![clonen](https://i.imgur.com/XRPI7bk.png)
 
