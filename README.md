@@ -30,7 +30,7 @@ Website of group green II of the HPI schuelerkolleg
 
 * Mit `git pull` erhaltet ihr die Änderungen der Anderen.
 
-* `git add` fügt Änderungen einem Commit hinzu
+* `git add .` fügt alle Änderungen im Ordner einem Commit hinzu
 
 ![clonen](https://i.imgur.com/LmSIwuR.png)
 
