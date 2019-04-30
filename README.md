@@ -50,3 +50,5 @@ Website of group green II of the HPI schuelerkolleg
 ![clonen](https://i.imgur.com/XRPI7bk.png)
 
 * `git push` veröffentlicht den Commit / die Änderungen
+
+* Prüft, ob eure Änderungen auf der Webseite angekommen sind. Dies kann einige Minuten dauern.
