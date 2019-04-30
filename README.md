@@ -6,9 +6,11 @@ Website of group green II of the HPI schuelerkolleg
 
 ![clonen](https://i.imgur.com/7ynSzAc.png)
 
-* Legt eine lokale Kopie des Repository auf eurem Rechner an ("clonen")
+* Kopiert die Adresse des GitHub Repositories von der Webseite
 
 ![clonen](https://i.imgur.com/ZCM7a6g.png)
+
+* In der git Kommandozeile: `git clone <kopierte git Adresse>`
 
 ![clonen](https://i.imgur.com/zw5cjUo.png)
 
