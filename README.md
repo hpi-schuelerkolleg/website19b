@@ -2,6 +2,10 @@
 Website of group green II of the HPI schuelerkolleg
 
 ## Anleitung
+* Sagt Bescheid, welchen GitHub Accountnamen ihr gewählt habt. Dann bekommt ihr Zugriffsrechte aufs Repository.
+
+* Geht auf `https://github.com/hpi-schuelerkolleg/website19b/invitations` um eure Projekteinladung anzunehmen.
+
 * Kopiert die Adresse dieses GitHub Repositories: `https://github.com/hpi-schuelerkolleg/website19b.git`
 
 ![clonen](https://i.imgur.com/ZCM7a6g.png)
