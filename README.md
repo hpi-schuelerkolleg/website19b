@@ -2,13 +2,13 @@
 Website of group green II of the HPI schuelerkolleg
 
 ## Anleitung
+* Kopiert die Adresse dieses GitHub Repositories: `https://github.com/hpi-schuelerkolleg/website19b.git`
+
+![clonen](https://i.imgur.com/ZCM7a6g.png)
+
 * Startet die git Kommandozeile
 
 ![clonen](https://i.imgur.com/7ynSzAc.png)
-
-* Kopiert die Adresse des GitHub Repositories von der Webseite
-
-![clonen](https://i.imgur.com/ZCM7a6g.png)
 
 * In der git Kommandozeile: `git clone <kopierte git Adresse>`
 
